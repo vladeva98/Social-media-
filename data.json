@@ -1,0 +1,55 @@
+{
+    "posts": [
+      {
+        "name": "Latest on Instagram",
+        "date": "2024-01-01",
+        "caption": "Instagram feed",
+        "image": "img/insta.png"
+      },
+      {
+        "name": "Latest on Facebook",
+        "date": "2024-01-02",
+        "caption": "Facebook feed.",
+        "image": "img/fb.png"
+      },
+      {
+        "name": "Latest on Tik - tok",
+        "date": "2024-01-02",
+        "caption": "Tik - tok feed.",
+        "image": "img/y.webp"
+      },
+      {
+        "name": "Pinterest",
+        "date": "2024-01-02",
+        "caption": "Pinterest feed.",
+        "image": "img/p.jpg"
+      },
+      {
+        "name": "Twitter",
+        "date": "2024-01-02",
+        "caption": "Twitter feed.",
+        "image": "img/tw.png"
+      },
+      {
+        "name": "Youtube",
+        "date": "2024-01-02",
+        "caption": "Youtube feed.",
+        "image": "img/yt.jpg"
+      },
+      {
+        "name": "CNN",
+        "date": "2024-01-02",
+        "caption": "CNN feed.",
+        "image": "img/cnn.jpg"
+      },
+      {
+        "name": "Tumblr",
+        "date": "2024-01-02",
+        "caption": "Tumblr feed.",
+        "image": "img/tmb.png"
+      }
+      
+      
+    ]
+  }
+  
